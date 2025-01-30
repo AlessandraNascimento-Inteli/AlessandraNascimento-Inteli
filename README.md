@@ -1,6 +1,9 @@
+
+![download](https://github.com/user-attachments/assets/71966a62-d330-4788-a2db-5b30b46b1b53)
+
 ## Hello World 💻
 
-Me chamo Alessandra Nascimento Santos Sena, sou de Dias D"Ávila cidade da zona metropolitana de Salvador - Bahia. Atualmente estou realizando a minha primeira graduação pelo Instituto de Tecnologia e Liderança - Inteli - em São Paulo, Capital. Minha história com a tecnologia começa quando eu ainda era criança e os meus pais compraram o primeiro computador da minha casa para que eu e meus irmãos pudéssemos nos utilizar dele para pesquisar sobre assuntos das atividades escolares nas quais eles não podiam ajudar. Como uma boa pessoa curiosa, absorvia alguns aprendizados sobre informática que meu irmão mais velho se utilizava ao utilizar aquele computador. Quando fiz 15 anos, tive a oportunidade de estudar no Instituto Federal de Educação, Ciência e Tecnologia da Bahia realizando o curso técnico em informática integrado ao ensino médio e voltado ao desenvolvimento. Desta forma, me vi cada vez mais inspirada pelo vasto mundo da tecnologia. 
+Me chamo Alessandra Nascimento Santos Sena, sou de Dias D'Ávila cidade da zona metropolitana de Salvador - Bahia. Atualmente estou realizando a minha primeira graduação pelo Instituto de Tecnologia e Liderança - Inteli - em São Paulo, Capital. Minha história com a tecnologia começa quando eu ainda era criança e os meus pais compraram o primeiro computador da minha casa para que eu e meus irmãos pudéssemos nos utilizar dele para pesquisar sobre assuntos das atividades escolares nas quais eles não podiam ajudar. Como uma boa pessoa curiosa, absorvia alguns aprendizados sobre informática que meu irmão mais velho se utilizava ao utilizar aquele computador. Quando fiz 15 anos, tive a oportunidade de estudar no Instituto Federal de Educação, Ciência e Tecnologia da Bahia realizando o curso técnico em informática integrado ao ensino médio e voltado ao desenvolvimento. Desta forma, me vi cada vez mais inspirada pelo vasto mundo da tecnologia. 
 
 ## Hobbies 🤩
 
